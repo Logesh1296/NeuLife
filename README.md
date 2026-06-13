@@ -1,4 +1,4 @@
-# 🧠 NeuraScan (NeuLife) — Acoustic Neurodegenerative Risk Profiling
+# 🧠 NeuLife — Acoustic Neurodegenerative Risk Profiling
 
 This repository hosts an end-to-end machine learning system designed to analyze human voice patterns for signs of neurodegenerative conditions, specifically Parkinson's disease. Using a dataset of acoustic vocal biomarkers, this project implements a comparative predictive pipeline, maps feature importance using model explainability tools, and provides a live, browser-based microphone inference loop.
 
